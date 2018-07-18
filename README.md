@@ -6,7 +6,7 @@
 * hexo
 <br/>![文件结构](structure.png)
   * jupiter
-  <br/>备份hexo生成的.deploy_git发布目录
+  <br/>hexo d 生成的.deploy_git发布目录
   * mars
   <br/>备份博客源文件source目录
 		
