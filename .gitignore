@@ -2,9 +2,11 @@
 Thumbs.db
 db.json
 *.log
-node_modules/
-public/
+desktop.ini
+
 .deploy*/
 .idea/
-desktop.ini
+node_modules/
+public/
+source/
 themes/
