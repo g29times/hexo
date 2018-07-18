@@ -27,4 +27,12 @@
 
 ## Github Banner
 https://www.haomwei.com/technology/fork-me-on-github.html
-https://segmentfault.com/a/1190000008040387
+<br/>https://segmentfault.com/a/1190000008040387
+
+
+## Markdown使用
+1. [有序列表 多级列表](https://blog.csdn.net/qq_15364915/article/details/54584755)
+2. [转义字符](https://blog.csdn.net/fengxinlinux/article/details/73719034)
+3. [缩进及换行](https://blog.csdn.net/u010758410/article/details/75270368)
+4. [链接及脚注](https://www.cnblogs.com/tocy/p/markdown-footnote_link.html)
+5. [添加图片](https://blog.csdn.net/slaughterdevil/article/details/79255933)
