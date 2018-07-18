@@ -16,13 +16,13 @@
 <br/>https://hexo.io/zh-cn/docs/commands.html
 * 命令
   * 草稿
-  <br/>hexo publish \[layout\] \<title\> &ensp;\#发表草稿。
+  <br/>hexo publish \[layout\] \<title\> &ensp;\# 发表草稿。
   * 写作
-  <br/>hexo n "name" &ensp;\#新建文章
-  <br/>hexo g &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;\#生成静态网页
-  <br/>hexo p &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;\#发表草稿
-  <br/>hexo s &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;\#启动服务
-  <br/>hexo d &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;\#部署网站 参数：-g 部署之前先生成静态文件。
+  <br/>hexo n "name" &ensp;\# 新建文章
+  <br/>hexo g &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;\# 生成静态网页
+  <br/>hexo s &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;\# 启动本地服务
+  <br/>hexo clean &ensp;&ensp;&ensp;&ensp;\# 清除缓存文件 (db.json) 和已生成的静态文件 (public)
+  <br/>hexo d &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;\# 部署网站 参数：-g 部署之前先生成静态文件
 
 
 ## Github Banner
